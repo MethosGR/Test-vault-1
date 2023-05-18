@@ -1,0 +1,13 @@
+phrase:
+  access_token: 154d8ddb36e4c4912c498fe249e51db71711f09c9fb6938467845e593dacf954
+  project_id: 6febcfed1b39b7120933a261f838c3f9
+  push:
+    sources:
+    - file: ./sample.json
+      params:
+        file_format: simple_json
+  pull:
+    targets:
+    - file: ./sample_translated.json
+      params:
+        file_format: simple_json
