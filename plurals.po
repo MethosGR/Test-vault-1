@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#:ui/gui/409
+msgctxt "GUI|Installation"
+msgid "%d _storage device selected"
+msgid_plural "%d _storage devices selected" 
