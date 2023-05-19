@@ -1,5 +1,5 @@
-msgid ""
-msgstr ""
+msgid "This should be imported in Strings"
+msgstr "As well as this part"
 "Project-Id-Version: Lingohub 1.0.1\n"
 "Report-Msgid-Bugs-To: support@lingohub.com \n"
 "Last-Translator: Marko Bošković <marko@lingohub.com>\n"
