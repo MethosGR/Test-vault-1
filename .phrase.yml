@@ -1,0 +1,15 @@
+phrase:
+  access_token: 9ed733fe3237c1cb5aed0fd2284576796e25db2718db2ddf7cf05c74e31f456c
+  project_id: a4a929b2f6959c6168feba1d01b0011c
+  push:
+    sources:
+    - file: ./sample.po
+      params:
+        update_translations: true
+        file_format: gettext
+  pull:
+    targets:
+    - file: ./sample.po
+      params:
+        update_translations: true
+        file_format: gettext
