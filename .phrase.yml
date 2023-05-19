@@ -9,7 +9,6 @@ phrase:
         file_format: gettext
   pull:
     targets:
-    - file: ./sample.po
+    - file: ./<locale_name>/sample.po
       params:
-        update_translations: true
         file_format: gettext
