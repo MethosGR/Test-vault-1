@@ -1,5 +1,5 @@
-msgid ""
-msgstr ""
+msgid "This_is_a_test_push"
+msgstr "This should be pushed to Strings"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
