@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+# Test change for pull
+msgid "This should be imported in Strings and changed when pulled to GIT"
+msgstr "Yada yada yada Jerry"
+
+msgid "Welcome back, %1$s! Your last visit was on %2$s"
+msgstr "No test text"
