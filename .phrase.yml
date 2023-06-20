@@ -5,6 +5,7 @@ phrase:
     sources:
     - file: ./sample.po
       params:
+        locale_id: en
         update_translations: true
         file_format: gettext
   pull:
