@@ -1,6 +1,6 @@
 phrase:
-  access_token: 9ed733fe3237c1cb5aed0fd2284576796e25db2718db2ddf7cf05c74e31f456c
-  project_id: a4a929b2f6959c6168feba1d01b0011c
+  access_token: ad232f9684620681277bf7c439e198b9ee183a7792011aa51112969e55d57328
+  project_id: e982986a7d1617cb9e38f9f0b1c196a0
   push:
     sources:
     - file: ./sample.po
