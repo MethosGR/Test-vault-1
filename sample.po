@@ -25,7 +25,7 @@ msgstr "Third string for push to APC for a demo roundtrip"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Phrase (phrase.com)\n"
 
-msgid "Updated string number 3"
+msgid "Updated string number 4"
 msgstr "Another  string for push to APC for a demo roundtrip"
 "Language: en\n"
 "MIME-Version: 1.0\n"
