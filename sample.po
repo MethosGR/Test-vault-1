@@ -1,5 +1,5 @@
 msgid "Updated string 1"
-msgstr "This is a new string for push to APC. The string is for a demo."
+msgstr "This is a new string for push to APC. The string is for a demo for Acolad."
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
