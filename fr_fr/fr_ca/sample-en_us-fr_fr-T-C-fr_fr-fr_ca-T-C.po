@@ -1,0 +1,11 @@
+msgid "Updated string 1"
+msgstr "Chaîne 1 mise à jour"
+
+msgid "Updated string number 2"
+msgstr "Chaîne numéro 2 mise à jour"
+
+msgid "Updated string number 3"
+msgstr "Chaîne numéro 3 mise à jour"
+
+msgid "Updated string number 4"
+msgstr "Chaîne numéro 4 mise à jour"
