@@ -5,7 +5,7 @@ phrase:
     - file: ./sample.po
       params:
         locale_id: en
-        update_translations: true
+        update_translations: false
         file_format: gettext
   pull:
     targets:
