@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "test"
+msgstr "αυτό είναι ένα τεστ"
+
+msgid "Test VM"
+msgstr "Αυτό είναι ένα τεστ."
+
+# test
+msgid "test6"
+msgstr "αυτό είναι ένα τεστ"
+
+msgid "Updated string 1"
+msgstr ""
+"Αυτή είναι μια νέα συμβολοσειρά για προώθηση στο APC. Η συμβολοσειρά είναι για επίδειξη. Γλώσσα: en\n"
+"Έκδοση MIME: 1.0\n"
+"Τύπος περιεχομένου: κείμενο/απλό; σύνολο χαρακτήρων=UTF-8\n"
+"Περιεχόμενο-Μεταφορά-Κωδικοποίηση: 8bit\n"
+"Πληθυντικός-Μορφές: nplurals=2; πληθυντικός=(n != 1);\n"
+"X-Generator: Φράση (phrase.com)"
+
+msgid "Updated string number 2"
+msgstr ""
+"Αυτή είναι μια ακόμη νέα συμβολοσειρά για ώθηση στο APC για μια επίδειξη roundtripLanguage: en\n"
+"Έκδοση MIME: 1.0\n"
+"Τύπος περιεχομένου: κείμενο/απλό; σύνολο χαρακτήρων=UTF-8\n"
+"Περιεχόμενο-Μεταφορά-Κωδικοποίηση: 8bit\n"
+"Πληθυντικός-Μορφές: nplurals=2; πληθυντικός=(n != 1);\n"
+"X-Generator: Φράση (phrase.com)"
+
+msgid "Updated string number 3"
+msgstr ""
+"Τρίτη συμβολοσειρά για ώθηση στο APC για επίδειξη μετ&#39; επιστροφήςΓλώσσα: en\n"
+"Έκδοση MIME: 1.0\n"
+"Τύπος περιεχομένου: κείμενο/απλό; σύνολο χαρακτήρων=UTF-8\n"
+"Περιεχόμενο-Μεταφορά-Κωδικοποίηση: 8bit\n"
+"Πληθυντικός-Μορφές: nplurals=2; πληθυντικός=(n != 1);\n"
+"X-Generator: Φράση (phrase.com)"
+
+msgid "Updated string number 4"
+msgstr "Μια άλλη συμβολοσειρά για προώθηση στο APC για το διαδικτυακό σεμινάριο roundtripLanguage: en"
+
+msgid "White paper"
+msgstr "λευκό χαρτί"

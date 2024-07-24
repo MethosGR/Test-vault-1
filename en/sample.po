@@ -7,9 +7,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Phrase (phrase.com)\n"
 
+msgid "test"
+msgstr "this  is a test"
+
+msgid "Test VM"
+msgstr "This is a test."
+
+# test
+msgid "test6"
+msgstr "this is a test"
+
 msgid "Updated string 1"
 msgstr ""
-"This is a new string for push to APC. The string is for a demo for Acolad.Language: en\n"
+"This is a new string for push to APC. The string is for a demo.Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -41,3 +51,6 @@ msgid "Updated string number 4"
 msgstr ""
 "Another string for push to the APC for the webinar roundtripLanguage: en\n"
 ""
+
+msgid "White paper"
+msgstr "White paper"
