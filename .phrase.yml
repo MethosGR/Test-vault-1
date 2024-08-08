@@ -7,6 +7,8 @@ phrase:
         locale_id: en
         update_translations: false
         file_format: gettext
+        skip_upload_tags: false
+        
   pull:
     targets:
     - file: ./<locale_name>/sample.po
