@@ -7,6 +7,29 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Phrase (phrase.com)\n"
 
+# This is looking promising
+msgid "Keep going"
+msgstr "Turn this thing on."
+
+# Yey another
+msgid "One more Orch key"
+msgstr "This should work now."
+
+# Yet another key
+msgid "Orch 3"
+msgstr "This is the 3rd time"
+
+# One more
+msgid "Orch 5"
+msgstr "Fifth time is the charm."
+
+# Another test key
+msgid "Orch_2"
+msgstr "This is a test for a workflow."
+
+msgid "Test for Orch"
+msgstr "Hello World!!!"
+
 msgid "Updated string 1"
 msgstr ""
 "This is a new string for push to APC. The string is for an automation demo for Vorwerk.Language: en\n"
@@ -44,7 +67,7 @@ msgstr ""
 
 msgid "Updated string number 5"
 msgstr ""
-"This is getting ridiculous...Language: en\n"
+"This is getting ridiculous... Oh jee, Rick!!Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
