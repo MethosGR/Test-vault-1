@@ -39,7 +39,7 @@ msgstr "This is getting ridiculous... Oh jee, Rick!!"
 "X-Generator: Phrase (phrase.com)\n"
 
 msgid "Updated string number 5"
-msgstr "23rd time is the charm!!!"
+msgstr "2300rd time is the charm!!!"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
