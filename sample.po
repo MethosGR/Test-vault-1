@@ -1,4 +1,4 @@
-msgid "Updated string 1"
+msgid "Updated string 1. This is a new string for push to APC. The string is for an automation demo for a pet client"
 msgstr "This is a new string for push to APC. The string is for an automation demo for a pet client."
 "Language: en\n"
 "MIME-Version: 1.0\n"
