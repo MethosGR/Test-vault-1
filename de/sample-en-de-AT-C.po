@@ -1,0 +1,17 @@
+msgid "Updated string 1. This is a new string for push to APC. The new version of this string is for an automation test for a pet client"
+msgstr "Aktualisierte Zeichenkette 1. Dies ist eine neue Zeichenkette für die Übertragung an APC. Die neue Version dieser Zeichenkette dient einem automatisierten Test für einen Haustierklienten."
+
+msgid "Updated string number 2"
+msgstr "Aktualisierte Zeichenkette Nummer 2"
+
+msgid "Updated string number 3"
+msgstr "Aktualisierte Zeichenkette Nummer 3"
+
+msgid "Updated string number 4"
+msgstr "Aktualisierte Zeichenkette Nummer 4"
+
+msgid "Updated string number 5"
+msgstr "Aktualisierte Zeichenkette Nummer 5"
+
+msgid "Updated string number 5"
+msgstr "Aktualisierte Zeichenkette Nummer 5"
